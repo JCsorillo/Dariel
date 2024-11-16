@@ -510,6 +510,7 @@ button {
     width: 100%;
     float: left;
     padding-top: 80px;
+    background-color: white;
 }
 
 .box_main {
@@ -519,6 +520,7 @@ button {
     height: auto;
     padding: 70px 0px;
     box-shadow: 0px 0px 60px 0px #f0f0ef;
+    background-color: white;
 }
 
 .app_icon {
