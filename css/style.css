@@ -1068,3 +1068,13 @@ textarea#comment.massage-bt::placeholder {
 .margin_90{
     margin: 90px 0px;
 }
+
+/* Spotify */
+.spotify {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-right: 30%;
+}
