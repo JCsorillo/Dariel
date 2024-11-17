@@ -2,4 +2,4 @@ User -agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: http://darielantay.site/sitemap.xml
+Sitemap: http://darielantaynisucics.site/sitemap.xml
