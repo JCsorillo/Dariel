@@ -1,1 +1,21 @@
-{"name":"NISU | CICS","short_name":"Dariel Antay","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}
+{
+    "name": "Dariel Antay - NISU | CICS",
+    "short_name": "Dariel Antay",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#308409",
+    "description": "Personal website of Dariel Antay, a student at Northern Iloilo State University, showcasing projects and hobbies.",
+    "icons": [
+      {
+        "src": "images/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
