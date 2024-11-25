@@ -611,6 +611,10 @@ button {
     width: 100%;
     float: left;
     padding-top: 30px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
 }
 
 .image {
