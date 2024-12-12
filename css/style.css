@@ -997,6 +997,27 @@ textarea#comment.massage-bt::placeholder {
     height: auto;
     padding: 60px 0px 45px 0px;
 }
+.footer_section ul{
+    margin-top: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0;
+    text-align: center;
+}
+.footer_section ul li a{
+    color: black;
+    border-bottom: 3px solid transparent;
+    transition: 0.3s ease;
+    -webkit-transition: 0.3s ease;
+    -moz-transition: 0.3s ease;
+    -ms-transition: 0.3s ease;
+    -o-transition: 0.3s ease;
+}
+.footer_section ul li{
+    display: inline-block;
+    padding: 0 15px;
+}
 
 .location_text {
     width: 100%;
