@@ -615,7 +615,6 @@ button {
     padding-left: 50px;
     padding-right: 50px;
 }
-}
 
 .image {
     display: block;
@@ -1080,5 +1079,5 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     align-items: center;
     justify-content: center;
-    padding-right: 25%;
+    padding-right: 30%;
 }
