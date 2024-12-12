@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://darielantay.site/index.html</loc>
         <lastmod>2024-12-13</lastmod>
@@ -18,13 +18,13 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-        <url>
+    <url>
         <loc>https://darielantay.site/nisu.html</loc>
         <lastmod>2024-12-13</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-        <url>
+    <url>
         <loc>https://darielantay.site/cics.html</loc>
         <lastmod>2024-12-13</lastmod>
         <changefreq>monthly</changefreq>
